@@ -1,0 +1,4 @@
+rootProject.name = 'qcrypt'
+
+include ':core'
+include ':kybertest'

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Kyber Test</string>
+    <string name="regenerate_static_key">Regenerate static key</string>
+    <string name="start_a_server">start server</string>
+    <string name="connect">connect</string>
+    <string name="connect_to">Connect to…</string>
+    <string name="remote_ip_address">remote ip address</string>
+    <string name="static_key_info_template">Current static key fingerprint: %s</string>
+    <string name="message">message</string>
+    <string name="error_closing_connection">error, closing connection</string>
+    <string name="not_a_kyber_server">it is not a kyber server, closing connection</string>
+    <string name="step1">1 step: InitA</string>
+    <string name="step2">2 step: ShareB</string>
+    <string name="step3">3 step: ShareA</string>
+    <string name="connected_successfully">connected successfully, shared secret: %s</string>
+    <string name="started_successfully">started successfully (ip: %s)</string>
+    <string name="interrupting_server">interrupting server....</string>
+    <string name="interrupted_successfully">interrupted successfully</string>
+    <string name="starting_server">starting server....</string>
+    <string name="keys_regenerated">Key was successfully regenerated</string>
+    <string name="server_started">server started</string>
+    <string name="cant_open_session">can\'t open session</string>
+    <string name="opening_session">opening a new session....</string>
+    <string name="previous_session_closed">previous session closed</string>
+</resources>

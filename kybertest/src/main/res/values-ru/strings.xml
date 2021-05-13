@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kyber Test</string>
+    <string name="regenerate_static_key">Перегенерировать статический ключ</string>
+    <string name="start_a_server">запустить сервер</string>
+    <string name="connect">подключиться</string>
+    <string name="connect_to">Подключиться к…</string>
+    <string name="remote_ip_address">удалённый ip-адресс</string>
+    <string name="static_key_info_template">Цифровой отпечаток текущего статического ключа: %s</string>
+    <string name="message">сообщение</string>
+    <string name="error_closing_connection">ошибка, закрываем соединение</string>
+    <string name="not_a_kyber_server">это не сервер kyber, закрываем соединение</string>
+    <string name="step1">1 шаг: InitA</string>
+    <string name="step2">2 шаг: ShareB</string>
+    <string name="step3">3 шаг: ShareA</string>
+    <string name="connected_successfully">соединение успешно установлено, обший секрет: %s</string>
+    <string name="started_successfully">запущен (ip: %s)</string>
+    <string name="interrupting_server">закрытие сервера....</string>
+    <string name="interrupted_successfully">закрыт успешно</string>
+    <string name="starting_server">запуск сервера....</string>
+    <string name="keys_regenerated">Ключ успешно перегенерирован</string>
+    <string name="server_started">сервер запушен</string>
+    <string name="cant_open_session">невозможно открыть сессию</string>
+    <string name="opening_session">открываем новую сессию....</string>
+    <string name="previous_session_closed">предыдушая сессия закрыта</string>
+</resources>
