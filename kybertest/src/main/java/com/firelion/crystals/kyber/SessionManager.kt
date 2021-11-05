@@ -1,10 +1,10 @@
 package com.firelion.crystals.kyber
 
 import android.util.Log
-import com.firelion.crystals.util.KyberParams.Companion.KYBER_SYMMETRIC_BYTES
-import com.firelion.crystals.util.kexAkeInitA
-import com.firelion.crystals.util.kexAkeSharedA
-import com.firelion.crystals.util.kexAkeSharedB
+import com.firelion.crystals.kyber.util.KyberParams.Companion.KYBER_SYMMETRIC_BYTES
+import com.firelion.crystals.kyber.util.kexAkeInitA
+import com.firelion.crystals.kyber.util.kexAkeSharedA
+import com.firelion.crystals.kyber.util.kexAkeSharedB
 import java.io.InputStream
 import java.io.OutputStream
 import java.security.spec.KeySpec

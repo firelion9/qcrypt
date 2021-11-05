@@ -1,8 +1,8 @@
 package com.firelion.crystals.kyber
 
 import android.content.Context
-import com.firelion.crystals.util.Kyber1024
-import com.firelion.crystals.util.kexKeyPair
+import com.firelion.crystals.kyber.util.Kyber1024
+import com.firelion.crystals.kyber.util.kexKeyPair
 import org.bouncycastle.util.Fingerprint
 import java.io.File
 import java.security.SecureRandom
