@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dilithium test</string>
+    <string name="choose_signed_file">Choose signed file</string>
+    <string name="choose_signature">Choose signature</string>
+    <string name="check">Check</string>
+    <string name="signature_invalid">Signature invalid</string>
+    <string name="signature_valid">Signature valid</string>
+    <string name="choose_files_first">choose signed file and signature first</string>
+</resources>

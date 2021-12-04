@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dilithium test</string>
+    <string name="choose_signed_file">Выбрать подписанный файл</string>
+    <string name="choose_signature">Выбрать подпись</string>
+    <string name="check">Проверить</string>
+    <string name="signature_invalid">Подпись повреждена</string>
+    <string name="signature_valid">Подпись верна</string>
+    <string name="choose_files_first">Сначала выберете подписанный файл и подпись</string>
+</resources>

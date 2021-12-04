@@ -1,4 +1,4 @@
 rootProject.name = 'qcrypt'
 
 include ':kyber', ':dilithium'
-include ':kybertest'
+include ':kybertest', ':dilithiumtest'
